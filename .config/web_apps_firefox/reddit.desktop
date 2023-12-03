@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Reddit
+Comment=Reddit
+GenericName=h3nr_y
+Keywords=reddit;Reddit;redd;red;
+Exec=firefox -new-window https://www.reddit.com
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/henry/icons/reddit.png
+Categories=GNOME;GTK;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
